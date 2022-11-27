@@ -64,7 +64,7 @@ class AppLocalizations {
   String get open {
     return Intl.message(
       'Open',
-      name: 'openTitle',
+      name: 'open',
       desc: '"Open" word',
       locale: localeName,
     );
